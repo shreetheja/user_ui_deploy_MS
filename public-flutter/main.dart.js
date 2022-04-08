@@ -22805,7 +22805,7 @@ _.f=d
 _.r=e
 _.x=f
 _.y=g
-_.z="nil"
+_.z=""
 _.Q=h
 _.ch=i
 _.dx=_.cy=_.cx=null
@@ -75495,7 +75495,7 @@ ay(){var s=$.e9
 return new A.RQ(s==null?$.e9=A.mh():s,B.k)}}
 A.RQ.prototype={
 L(a,b){var s=this,r=null,q=s.d,p=A.dN("DOB:",r,r,r,r,r,r,r),o=A.dh(r,r,90),n=$.aiT(),m=t.p
-return A.jW(A.b([B.Nv,B.f2,new A.iW("Name","Name",q.e,"Please fill Name",r,r,r),B.cr,A.hm(A.b([p,o,A.wJ(B.H8,new A.afr(s,b),A.qf(r,r,r,20,r,r,r,r,r,r,r,n,r,r,r,r,r,r)),A.dh(r,r,50),A.anW(r,r,q.z)],m),B.Y,B.aG,B.a3),B.cr,new A.iW("Email","yo@seethat.com",q.r,"Please fill email",new A.afs(),r,r),B.cr,new A.iW("Mobile","9448958584 ( Dont include +91 please)",q.f,"Please Enter the phone",new A.aft(s),r,r),B.cr,new A.iW("USN","4SFXXXXXXX",q.d,"Please Enter USN",r,r,r),B.cr,new A.iW("Address","lorem posem ",q.x,"Please Enter Address",r,r,r),B.f2,A.hm(A.b([A.wJ(B.H9,new A.afu(s),A.qf(r,r,r,20,r,r,r,r,r,r,r,n,r,r,r,r,r,r))],m),B.Y,B.eS,B.a3)],m),B.Y,B.aG,B.a3)},
+return A.jW(A.b([B.Nu,B.f2,new A.iW("Name","",q.e,"Please fill Name",r,r,r),B.cr,A.hm(A.b([p,o,A.wJ(B.H8,new A.afr(s,b),A.qf(r,r,r,20,r,r,r,r,r,r,r,n,r,r,r,r,r,r)),A.dh(r,r,50),A.anW(r,r,q.z)],m),B.Y,B.aG,B.a3),B.cr,new A.iW("Email","",q.r,"Please fill email",new A.afs(),r,r),B.cr,new A.iW("Mobile","Dont include +91 please",q.f,"Please Enter the phone",new A.aft(s),r,r),B.cr,new A.iW("USN","",q.d,"Please Enter USN",r,r,r),B.cr,new A.iW("Address","",q.x,"Please Enter Address",r,r,r),B.f2,A.hm(A.b([A.wJ(B.H9,new A.afu(s),A.qf(r,r,r,20,r,r,r,r,r,r,r,n,r,r,r,r,r,r))],m),B.Y,B.eS,B.a3)],m),B.Y,B.aG,B.a3)},
 uR(a){return this.a7Y(a)},
 a7Y(a){var s=0,r=A.ac(t.H),q,p=this,o,n
 var $async$uR=A.ad(function(b,c){if(b===1)return A.a9(c,r)
@@ -75549,7 +75549,7 @@ $2(a,b){return new A.pv(new A.wc(this.a.d.y,null),null)},
 $S:423}
 A.Lc.prototype={
 L(a,b){var s=this,r=null,q="Please Enter passowrd",p=A.dN("Password Details",r,r,r,r,A.bL(r,r,r,r,r,r,r,r,r,r,r,19,r,B.c6,r,r,!0,r,r,r,r,r,r,r,r),B.bj,r),o=s.c,n=$.aiT(),m=t.p
-return A.jW(A.b([p,B.f2,B.cr,new A.iW("Password",":X}",o.Q,q,r,!0,r),B.cr,new A.iW("Confirm Password",":X}",o.ch,q,new A.a6a(s),!0,r),B.IX,A.hm(A.b([A.wJ(new A.df(B.cJ,B.vJ,r),new A.a6b(s),A.qf(r,r,r,30,r,r,r,r,r,r,r,n,r,r,r,r,r,r)),B.vl,A.wJ(new A.df(B.cJ,B.vI,r),new A.a6c(s),A.qf(r,r,r,20,r,r,r,r,r,r,r,n,r,r,r,r,r,r))],m),B.Y,B.eS,B.a3)],m),B.Y,B.aG,B.a3)}}
+return A.jW(A.b([p,B.f2,B.cr,new A.iW("Password","",o.Q,q,r,!0,r),B.cr,new A.iW("Confirm Password","",o.ch,q,new A.a6a(s),!0,r),B.IX,A.hm(A.b([A.wJ(new A.df(B.cJ,B.vJ,r),new A.a6b(s),A.qf(r,r,r,30,r,r,r,r,r,r,r,n,r,r,r,r,r,r)),B.vl,A.wJ(new A.df(B.cJ,B.vI,r),new A.a6c(s),A.qf(r,r,r,20,r,r,r,r,r,r,r,n,r,r,r,r,r,r))],m),B.Y,B.eS,B.a3)],m),B.Y,B.aG,B.a3)}}
 A.a6a.prototype={
 $1(a){var s=this.a.c
 if(s.Q.a.a===s.ch.a.a)return null
@@ -80375,8 +80375,8 @@ B.H6=new A.yz(null)
 B.H7=new A.J9(0,"start")
 B.QB=new A.J7(1,"clip")
 B.Mv=new A.u(!0,B.j,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Nu=new A.jr("select Date",null,B.Mv,null,null,null,null,null,null,null)
-B.H8=new A.df(B.cJ,B.Nu,null)
+B.Nv=new A.jr("Select Date",null,B.Mv,null,null,null,null,null,null,null)
+B.H8=new A.df(B.cJ,B.Nv,null)
 B.lA=new A.u(!0,B.j,null,null,null,null,19,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vI=new A.jr("Next",null,B.lA,null,null,null,null,null,null,null)
 B.H9=new A.df(B.cJ,B.vI,null)
@@ -80898,7 +80898,7 @@ B.Ns=new A.ea(B.Kv,B.Ma,B.Mn,B.N2,B.LK,B.KS,B.Mh,B.LN,B.LV,B.ML,B.L1,B.N7,B.LF,B
 B.ag=new A.AE(1,"longestLine")
 B.vH=new A.u(!0,null,null,null,null,null,19,B.c6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Nt=new A.jr("College Details",null,B.vH,B.bj,null,null,null,null,null,null)
-B.Nv=new A.jr("Personal Details",null,B.vH,B.bj,null,null,null,null,null,null)
+B.Nu=new A.jr("Personal Details",null,B.vH,B.bj,null,null,null,null,null,null)
 B.vJ=new A.jr("Back",null,B.lA,null,null,null,null,null,null,null)
 B.Nw=new A.jr("Save",null,B.lA,null,null,null,null,null,null,null)
 B.QD=new A.Mf(0,"system")
@@ -81596,7 +81596,7 @@ s($,"aJg","atW",()=>new A.JO(A.bY("/",!0),A.bY("[^/]$",!0),A.bY("^/",!0)))
 s($,"aJi","Uw",()=>new A.MG(A.bY("[/\\\\]",!0),A.bY("[^/\\\\]$",!0),A.bY("^(\\\\\\\\[^\\\\]+\\\\[^\\\\/]+|[a-zA-Z]:[/\\\\])",!0),A.bY("^[/\\\\](?![/\\\\])",!0)))
 s($,"aJh","EL",()=>new A.Mu(A.bY("/",!0),A.bY("(^[a-zA-Z][-+.a-zA-Z\\d]*://|[^/])$",!0),A.bY("[a-zA-Z][-+.a-zA-Z\\d]*://[^/]*",!0),A.bY("^/",!0)))
 s($,"aJf","alZ",()=>A.aCz())
-s($,"aLo","aiT",()=>A.a1s(A.a8(255,244,195,0)))
+s($,"aLo","aiT",()=>A.a1s(A.a8(255,0,122,244)))
 s($,"aLl","aiS",()=>A.a1s(B.r))
 s($,"aLy","avj",()=>A.a1s(B.zZ))
 s($,"aLM","avo",()=>A.a1s(B.zY))})();(function nativeSupport(){!function(){var s=function(a){var m={}
