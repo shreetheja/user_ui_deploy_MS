@@ -1796,6 +1796,7 @@ POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 async
 collection
+typed_data
 
 Copyright 2015, the Dart project authors. 
 
@@ -13308,7 +13309,7 @@ xml
 
 The MIT License
 
-Copyright (c) 2006-2021 Lukas Renggli.
+Copyright (c) 2006-2022 Lukas Renggli.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -16314,7 +16315,6 @@ May you find forgiveness for yourself and forgive others
 May you share freely, never taking more than you give.
 --------------------------------------------------------------------------------
 stream_channel
-typed_data
 
 Copyright 2015, the Dart project authors. All rights reserved.
 Redistribution and use in source and binary forms, with or without
